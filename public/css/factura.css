@@ -1,0 +1,15 @@
+.inputTablaCantidad, .inputTablaMargen
+{
+    width: 60px;
+}
+
+.inputTablaPrecio
+{
+    width: 70px;
+}
+
+#tablaExportar>caption
+{
+    background-color: red;
+    display: none;
+}
